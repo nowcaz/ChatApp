@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ChatApp-main",
+    "\\ChatApp-main\\tunnitoo1-main",
+    "\\ChatApp-main\\tunnitoo1-main\\ChatApp",
+    "\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp",
+    "\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp\\Net",
+    "\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp\\Net\\IO",
+    "\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatServer"
+  ],
+  "SelectedNode": "\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatServer\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
