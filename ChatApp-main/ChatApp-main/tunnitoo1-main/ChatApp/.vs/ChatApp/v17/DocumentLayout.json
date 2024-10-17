@@ -1,33 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\",
+  "WorkspaceRootPath": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BF83C96-1660-4444-8ECB-AC492BBFB8A9}|ChatServer\\ChatServer.csproj|c:\\users\\opilane\\source\\repos\\chatapp-main\\chatapp-main\\tunnitoo1-main\\chatapp\\chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{583764EB-5438-4760-B8A4-D2C4AF4413A2}|ChatConsole\\ChatConsole.csproj|c:\\users\\opilane\\desktop\\chatapp-main\\chatapp-main\\tunnitoo1-main\\chatapp\\chatconsole\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583764EB-5438-4760-B8A4-D2C4AF4413A2}|ChatConsole\\ChatConsole.csproj|solutionrelative:chatconsole\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{583764EB-5438-4760-B8A4-D2C4AF4413A2}|ChatConsole\\ChatConsole.csproj|c:\\users\\opilane\\desktop\\chatapp-main\\chatapp-main\\tunnitoo1-main\\chatapp\\chatconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{583764EB-5438-4760-B8A4-D2C4AF4413A2}|ChatConsole\\ChatConsole.csproj|solutionrelative:chatconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF83C96-1660-4444-8ECB-AC492BBFB8A9}|ChatServer\\ChatServer.csproj|c:\\users\\opilane\\desktop\\chatapp-main\\chatapp-main\\tunnitoo1-main\\chatapp\\chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BF83C96-1660-4444-8ECB-AC492BBFB8A9}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC11F574-9B75-41EA-B02A-A2F374425240}|ChatApp\\ChatClient.csproj|C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\chatapp\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{DC11F574-9B75-41EA-B02A-A2F374425240}|ChatApp\\ChatClient.csproj|C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\chatapp\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{DC11F574-9B75-41EA-B02A-A2F374425240}|ChatApp\\ChatClient.csproj|solutionrelative:chatapp\\mvvm\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC11F574-9B75-41EA-B02A-A2F374425240}|ChatApp\\ChatClient.csproj|C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\chatapp\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC11F574-9B75-41EA-B02A-A2F374425240}|ChatApp\\ChatClient.csproj|C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\chatapp\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC11F574-9B75-41EA-B02A-A2F374425240}|ChatApp\\ChatClient.csproj|solutionrelative:chatapp\\mvvm\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BF83C96-1660-4444-8ECB-AC492BBFB8A9}|ChatServer\\ChatServer.csproj|C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\chatserver\\net\\io\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BF83C96-1660-4444-8ECB-AC492BBFB8A9}|ChatServer\\ChatServer.csproj|C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\chatserver\\net\\io\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BF83C96-1660-4444-8ECB-AC492BBFB8A9}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\net\\io\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC11F574-9B75-41EA-B02A-A2F374425240}|ChatApp\\ChatClient.csproj|C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\chatapp\\net\\io\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC11F574-9B75-41EA-B02A-A2F374425240}|ChatApp\\ChatClient.csproj|C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\chatapp\\net\\io\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC11F574-9B75-41EA-B02A-A2F374425240}|ChatApp\\ChatClient.csproj|solutionrelative:chatapp\\net\\io\\packetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC11F574-9B75-41EA-B02A-A2F374425240}|ChatApp\\ChatClient.csproj|C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\chatapp\\mvvm\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC11F574-9B75-41EA-B02A-A2F374425240}|ChatApp\\ChatClient.csproj|C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\chatapp\\mvvm\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC11F574-9B75-41EA-B02A-A2F374425240}|ChatApp\\ChatClient.csproj|solutionrelative:chatapp\\mvvm\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BF83C96-1660-4444-8ECB-AC492BBFB8A9}|ChatServer\\ChatServer.csproj|C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\chatserver\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BF83C96-1660-4444-8ECB-AC492BBFB8A9}|ChatServer\\ChatServer.csproj|C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\chatserver\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BF83C96-1660-4444-8ECB-AC492BBFB8A9}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,12 +61,50 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatConsole\\Server.cs",
+              "RelativeDocumentMoniker": "ChatConsole\\Server.cs",
+              "ToolTip": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatConsole\\Server.cs",
+              "RelativeToolTip": "ChatConsole\\Server.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:47:17.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatServer\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatConsole\\Program.cs",
+              "RelativeDocumentMoniker": "ChatConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatConsole\\Program.cs",
+              "RelativeToolTip": "ChatConsole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:35:46.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatServer\\Program.cs",
               "RelativeDocumentMoniker": "ChatServer\\Program.cs",
-              "ToolTip": "C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatServer\\Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatServer\\Program.cs",
               "RelativeToolTip": "ChatServer\\Program.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwDsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,11 +113,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PacketReader.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatServer\\Net\\IO\\PacketReader.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatServer\\Net\\IO\\PacketReader.cs",
               "RelativeDocumentMoniker": "ChatServer\\Net\\IO\\PacketReader.cs",
-              "ToolTip": "C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatServer\\Net\\IO\\PacketReader.cs",
+              "ToolTip": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatServer\\Net\\IO\\PacketReader.cs",
               "RelativeToolTip": "ChatServer\\Net\\IO\\PacketReader.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -79,11 +125,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp\\MVVM\\ViewModel\\MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp\\MVVM\\ViewModel\\MainViewModel.cs",
               "RelativeDocumentMoniker": "ChatApp\\MVVM\\ViewModel\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp\\MVVM\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp\\MVVM\\ViewModel\\MainViewModel.cs",
               "RelativeToolTip": "ChatApp\\MVVM\\ViewModel\\MainViewModel.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,11 +137,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PacketReader.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp\\Net\\IO\\PacketReader.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp\\Net\\IO\\PacketReader.cs",
               "RelativeDocumentMoniker": "ChatApp\\Net\\IO\\PacketReader.cs",
-              "ToolTip": "C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp\\Net\\IO\\PacketReader.cs",
+              "ToolTip": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp\\Net\\IO\\PacketReader.cs",
               "RelativeToolTip": "ChatApp\\Net\\IO\\PacketReader.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,11 +149,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp\\MVVM\\Core\\RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp\\MVVM\\Core\\RelayCommand.cs",
               "RelativeDocumentMoniker": "ChatApp\\MVVM\\Core\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp\\MVVM\\Core\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp\\MVVM\\Core\\RelayCommand.cs",
               "RelativeToolTip": "ChatApp\\MVVM\\Core\\RelayCommand.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,26 +161,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp\\MVVM\\View\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp\\MVVM\\View\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ChatApp\\MVVM\\View\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp\\MVVM\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatApp\\MVVM\\View\\MainWindow.xaml",
               "RelativeToolTip": "ChatApp\\MVVM\\View\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-10T05:36:58.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatServer\\Client.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatServer\\Client.cs",
               "RelativeDocumentMoniker": "ChatServer\\Client.cs",
-              "ToolTip": "C:\\Users\\opilane\\Source\\repos\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatServer\\Client.cs",
+              "ToolTip": "C:\\Users\\opilane\\Desktop\\ChatApp-main\\ChatApp-main\\tunnitoo1-main\\ChatApp\\ChatServer\\Client.cs",
               "RelativeToolTip": "ChatServer\\Client.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAwwCkAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T05:35:57.272Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 594,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
             }
           ]
         }
