@@ -1,14 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Net.Sockets;
 using System.Text;
 
-namespace ChatClient.Net.IO
+namespace ChatApp.Net.IO
 {
     class PacketReader : BinaryReader
     {
         private NetworkStream _ns;
+
         public PacketReader(NetworkStream ns) : base(ns)
         {
             _ns = ns;
@@ -16,13 +16,19 @@ namespace ChatClient.Net.IO
 
         public string ReadMessage()
         {
-            byte[] msgBuffer;
-            var lenght = ReadInt32();
-            msgBuffer = new byte[lenght];
-            _ns.Read(msgBuffer, 0, lenght);
+            var length = ReadInt32();
+            if (length <= 0) return string.Empty; 
 
-            var msg = Encoding.ASCII.GetString(msgBuffer);
-            return msg;
+            byte[] msgBuffer = new byte[length];
+            int totalRead = 0;
+            while (totalRead < length)
+            {
+                int bytesRead = _ns.Read(msgBuffer, totalRead, length - totalRead);
+                if (bytesRead == 0) throw new IOException("Connection closed prematurely."); 
+                totalRead += bytesRead;
+            }
+
+            return Encoding.UTF8.GetString(msgBuffer);
         }
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\ChatApp-main\ChatApp-main\tunnitoo1-main\ChatApp\ChatConsole\bin\Debug\net8.0\ChatConsole.exe
+C:\Users\opilane\source\repos\ChatApp-main\ChatApp-main\tunnitoo1-main\ChatApp\ChatConsole\bin\Debug\net8.0\ChatConsole.deps.json
+C:\Users\opilane\source\repos\ChatApp-main\ChatApp-main\tunnitoo1-main\ChatApp\ChatConsole\bin\Debug\net8.0\ChatConsole.runtimeconfig.json
+C:\Users\opilane\source\repos\ChatApp-main\ChatApp-main\tunnitoo1-main\ChatApp\ChatConsole\bin\Debug\net8.0\ChatConsole.dll
+C:\Users\opilane\source\repos\ChatApp-main\ChatApp-main\tunnitoo1-main\ChatApp\ChatConsole\bin\Debug\net8.0\ChatConsole.pdb
+C:\Users\opilane\source\repos\ChatApp-main\ChatApp-main\tunnitoo1-main\ChatApp\ChatConsole\obj\Debug\net8.0\ChatConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\ChatApp-main\ChatApp-main\tunnitoo1-main\ChatApp\ChatConsole\obj\Debug\net8.0\ChatConsole.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\ChatApp-main\ChatApp-main\tunnitoo1-main\ChatApp\ChatConsole\obj\Debug\net8.0\ChatConsole.AssemblyInfo.cs
+C:\Users\opilane\source\repos\ChatApp-main\ChatApp-main\tunnitoo1-main\ChatApp\ChatConsole\obj\Debug\net8.0\ChatConsole.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\ChatApp-main\ChatApp-main\tunnitoo1-main\ChatApp\ChatConsole\obj\Debug\net8.0\ChatConsole.dll
+C:\Users\opilane\source\repos\ChatApp-main\ChatApp-main\tunnitoo1-main\ChatApp\ChatConsole\obj\Debug\net8.0\refint\ChatConsole.dll
+C:\Users\opilane\source\repos\ChatApp-main\ChatApp-main\tunnitoo1-main\ChatApp\ChatConsole\obj\Debug\net8.0\ChatConsole.pdb
+C:\Users\opilane\source\repos\ChatApp-main\ChatApp-main\tunnitoo1-main\ChatApp\ChatConsole\obj\Debug\net8.0\ChatConsole.genruntimeconfig.cache
+C:\Users\opilane\source\repos\ChatApp-main\ChatApp-main\tunnitoo1-main\ChatApp\ChatConsole\obj\Debug\net8.0\ref\ChatConsole.dll

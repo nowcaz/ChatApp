@@ -2,31 +2,35 @@
 using System.IO;
 using System.Text;
 
-namespace ChatClient.Net.IO
+namespace ChatApp.Net.IO
 {
     class PacketBuilder
     {
-        MemoryStream _ms;
-        public PacketBuilder() 
-        {   
+        private MemoryStream _ms;
+
+        public PacketBuilder()
+        {
             _ms = new MemoryStream();
         }
 
         public void WriteOpCode(byte opcode)
-        { 
+        {
             _ms.WriteByte(opcode);
         }
 
         public void WriteMessage(string msg)
         {
-            var msgLength = msg.Length;
-            _ms.Write(BitConverter.GetBytes(msgLength));
-            _ms.Write(Encoding.ASCII.GetBytes(msg));
+            var msgBytes = Encoding.UTF8.GetBytes(msg);
+            var msgLength = msgBytes.Length;
+            _ms.Write(BitConverter.GetBytes(msgLength), 0, sizeof(int)); 
+            _ms.Write(msgBytes, 0, msgLength); 
         }
 
         public byte[] GetPacketBytes()
         {
-            return _ms.ToArray();
+            var packetBytes = _ms.ToArray();
+            _ms.SetLength(0); 
+            return packetBytes;
         }
     }
 }

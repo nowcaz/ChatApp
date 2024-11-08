@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\opilane\Desktop\ChatApp-main\ChatApp-main\tunnitoo1-main\ChatApp\ChatApp\obj\Debug\net8.0-windows\
+C:\Users\opilane\source\repos\ChatApp-main\ChatApp-main\tunnitoo1-main\ChatApp\ChatApp\obj\Debug\net8.0-windows\
 ChatClient
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\opilane\Desktop\ChatApp-main\ChatApp-main\tunnitoo1-main\ChatApp\ChatApp\App.xaml
+C:\Users\opilane\source\repos\ChatApp-main\ChatApp-main\tunnitoo1-main\ChatApp\ChatApp\App.xaml
 11121423476
 
 101290802820
-198155382431
+198-556154604
 MVVM\View\MainWindow.xaml;
 
-True
+False
 
