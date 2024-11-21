@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  chatserver:
+    build:
+      context: ./ChatServer  # Build context is the ChatServer directory
+      dockerfile: Dockerfile
+    ports:
+      - "7891:7891"
+    networks:
+      - chat-network
+    container_name: chatserver
+
+  chatconsole:
+    build:
+      context: ./ChatConsole  # Build context is the ChatConsole directory
+      dockerfile: Dockerfile
+    ports:
+      - "7892:7891"
+    networks:
+      - chat-network
+    container_name: chatconsole
+    depends_on:
+      - chatserver
+    stdin_open: true
+    tty: true
+
+networks:
+  chat-network:
+    driver: bridge
